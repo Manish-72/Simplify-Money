@@ -90,15 +90,7 @@ streamlit run app/ui.py
 - Refresh browser
 - Check terminal for errors
 
-## 10. DEPLOYMENT OPTIONS
-For production use:
-- Dockerize the application
-- Use Gunicorn with Uvicorn workers
-- Consider cloud platforms:
-  - **Backend:** AWS, Azure, Heroku
-  - **Database:** MongoDB Atlas
-  - **Frontend:** Streamlit Cloud
 
 ## Support
-For support, contact: `your.email@example.com`
+For support, contact: `msaini720415@gmail.com`
 
